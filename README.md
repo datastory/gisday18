@@ -2,6 +2,7 @@
 
 [Datová žurnalistika](https://www.irozhlas.cz/zpravy-tag/datova-zurnalistika)  
 [podcast Dataři](https://www.irozhlas.cz/datari)  
+[GitHub](https://github.com/DataRozhlas), [Twitter](https://twitter.com/dataRozhlas), [FB](https://www.facebook.com/datarozhlas/)
 
 [jan.cibulka@rozhlas.cz](mailto:jan.cibulka@rozhlas.cz), [@jancibulka](https://twitter.com/jancibulka)  
 
