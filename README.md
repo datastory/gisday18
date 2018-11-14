@@ -26,4 +26,10 @@
 
 [Ulice pojmenované po ženách? Vzácnost. Interaktivní mapa ukazuje, jak drtivá je mužská převaha](https://www.irozhlas.cz/zpravy-domov/ulice-pojmenovane-po-zenach-vzacnost-interaktivni-mapa-ukazuje-jak-drtiva-je_1806170605_cib)
 
+---
+
 [Když stát prodává data: Jediný, kdo za mapy platí dvakrát, je občan ](https://www.irozhlas.cz/zpravy-domov/podcast-mapy-data-rozhlas-michal-med_1808310945_cib)
+
+[9 A 71/2015](http://nssoud.cz/files/EVIDENCNI_LIST/2015/9A_71_2015_20180419125108_20180605090044_prevedeno.pdf)
+
+[15 A 44/2018](http://infosoud.justice.cz/InfoSoud/public/search.do?org=MSPHAAB&krajOrg=MSPHAAB&cisloSenatu=15&druhVec=A&bcVec=44&rocnik=2018&typSoudu=os&autoFill=true&type=spzn)
